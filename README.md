@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=jihoo414-tech&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20Systems%20%7C%20Learning&descAlignY=58&descSize=16" alt="jihoo414-tech profile header" width="100%" />
-  <h3>안녕하세요, 백엔드를 만들고 공부하는 개발자입니다.</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=header" alt="프로필 배너" width="100%" />
+  <h3>안녕하세요, 백엔드 개발자 육지후입니다.</h3>
   <p>서비스가 지켜야 할 규칙을 정의하고,<br />코드와 테스트, 기록을 통해 하나씩 확인합니다.</p>
 </div>
 
