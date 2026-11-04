@@ -4,34 +4,34 @@
 
 <br />
 
-## 🛠 Tech Stack
+## 🫧 Tech Stack
 
 **Backend**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Java-0C4A6E?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-075985?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-0369A1?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/Spring%20Security-0284C7?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
 </p>
 
 **Database**
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MySQL-0E7490?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 **Infrastructure & Testing**
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" alt="Mockito" />
-  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=testcontainers&logoColor=white" alt="Testcontainers" />
+  <img src="https://img.shields.io/badge/Docker-0369A1?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-164E63?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/JUnit%205-0E7490?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Mockito-0F766E?style=for-the-badge" alt="Mockito" />
+  <img src="https://img.shields.io/badge/Testcontainers-0C4A6E?style=for-the-badge&logo=testcontainers&logoColor=white" alt="Testcontainers" />
 </p>
 
-## 🚀 Featured Project
+## 🌊 Featured Project
 
 ### 🎟️ [TicketFlow](https://github.com/jihoo414-tech/TicketFlow)
 
@@ -48,7 +48,7 @@
 
 <br />
 
-## 📚 Learning Notes
+## 🐚 Learning Notes
 
 ### [Backend Study Wiki](https://github.com/jihoo414-tech/backend-study-notes)
 
