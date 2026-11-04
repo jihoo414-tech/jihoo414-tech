@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=header" alt="프로필 배너" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=140&section=header" alt="프로필 배너" width="100%" />
   <h3>안녕하세요, 백엔드 개발자 육지후입니다.</h3>
   <p>서비스가 지켜야 할 규칙을 정의하고,<br />코드와 테스트, 기록을 통해 하나씩 확인합니다.</p>
 </div>
@@ -66,3 +66,5 @@ Java, Spring, 데이터베이스와 CS 개념을 주제별로 정리하고 관�
 <div align="center">
   <sub>Building software, recording decisions, and learning along the way.</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer" alt="물결 배너" width="100%" />
